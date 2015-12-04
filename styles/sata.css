@@ -1,0 +1,104 @@
+﻿.header{margin-top:15px;}
+	.row{text-align:center;}
+	.grayline{border-width: 1px 0px 0px;
+		border-style: solid;
+		border-color: #eee;}
+	hr{border-width: 1px 0px 0px;
+		border-style: dashed;
+		border-color: rgb(34, 75, 68) -moz-use-text-color -moz-use-text-color;}
+	#footer{background-color:#4A4849;color:#fff;margin:0px;text-align:center;}
+	.navbar-default{border-color: #fff;background-color:#fff;}
+	.navbar-toggle{margin-top:25px;}
+	.col-space {
+    text-align: center;
+    border: none;
+    padding: 15px 0px;}
+
+	.fa-shopping-cart{font-size:40px;color:#fff;}
+	.read-more{}
+				
+	.col-1{position: relative;
+			top: 15px;}
+
+	.navbar-header{
+					}
+	.border-right{border-right: 1px solid #C2C2C2;}
+	
+.mobile-dropdown {display:inline-block;
+				padding: 0px 10px;}
+
+.menu{text-align:center;}
+.navbar-menu{
+			position: relative;
+			left: 15px;
+			border-top: 1px solid #AEAEAE;
+			border-bottom: 1px solid #AEAEAE;}
+			
+.nav > li > a:focus, .nav > li > a:hover {
+										text-decoration: none;
+										background-color: #006347;
+										color: white;}
+										
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover {
+															background-color: #006347;
+															border-color: #337AB7;
+															color: white;}
+.navbar-menu-index	{
+					position: relative;
+					left: -10px;}	
+
+.breadcrumb-page  {background-color: white;
+					border-top: 1px solid #AEAEAE;
+					border-bottom: 1px solid #AEAEAE;
+					border-radius: 0px;}
+					
+.poduct-list .col-md-3:hover,.poduct-list .col-md-4:hover{}
+
+#ie8-warning{
+			
+			text-align:center;
+			width:90%;
+			height:700px;
+			background-color:#104741;
+			color:#fff;
+			font-weight:bold;
+			white-space:pre-wrap;
+			z-index:50;
+			position:absolute;
+			margin-left:5%;
+			margin-right:5%;
+			padding:15px;
+			line-height:2em;
+			letter-spacing:2px;
+			}
+			
+.read-more h3{color:red;
+			text-shadow:yellow 1px 1px 10px; } 
+.hr-space{visibility:hidden;}
+
+.none{
+	display:none;
+}
+form[action="http://dag1688.cn-hangzhou.aliapp.com/%e6%b1%82%e8%b4%ad%e5%92%a8%e8%af%a2#wpcf7-f123-p124-o1"]{display:none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
