@@ -14,8 +14,14 @@
     border: none;
     padding: 15px 0px;}
 
+	.col-space:hover{
+		/*border:1px #eee solid;*/
+		box-shadow:1px 1px 10px;
+} 
 	.fa-shopping-cart{font-size:40px;color:#fff;}
-	.read-more{}
+	.read-more{
+	margin-top: 15px;
+}
 				
 	.col-1{position: relative;
 			top: 15px;}
@@ -81,7 +87,15 @@
 }
 form[action="http://dag1688.cn-hangzhou.aliapp.com/%e6%b1%82%e8%b4%ad%e5%92%a8%e8%af%a2#wpcf7-f123-p124-o1"]{display:none;}
 
-
+@media screen and (max-width:768px){
+	.col-space:hover{
+		border:#eee 1px solid;
+		box-shadow:none;
+} 
+	.col-space{
+		border:#eee 1px solid;
+}	
+}
 
 
 
